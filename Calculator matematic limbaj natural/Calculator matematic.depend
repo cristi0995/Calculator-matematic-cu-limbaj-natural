@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1579097087 source:d:\c++\calculator matematic\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<string.h>
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<winbgim.h>
+
+1579191507 source:d:\c++\b2_calculator_bujoreanu_munteanu\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<string.h>
+	<graphics.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<winbgim.h>
+
